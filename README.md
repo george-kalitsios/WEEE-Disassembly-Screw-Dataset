@@ -4,12 +4,6 @@
 ## **2022 4th International Conference on Robotics and Computer Vision (ICRCV 2022)**
 
 <br />
-<br />
-
-### The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**crew **D**ataset 
-
-<br />
-
 
 ### **Dataset Statistics:**
 
@@ -51,12 +45,14 @@
 <br />
 <br />
 
-**WDSD Dataset** can be downloaded through this link: (After the conference September 25-27, 2022, the URL will be made available.) 
+### The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**crew **D**ataset 
+
+### **WDSD Dataset** can be downloaded through this link: (After the conference September 25-27, 2022, the URL will be made available.) 
 
 <br />
 <br />
 
-*Examples from the dataset:*
+#### *Examples from the dataset:*
 
 ![new1a(2)](https://user-images.githubusercontent.com/56552010/185946991-8a428885-651b-4eef-a8e1-d1ec108e4629.png)
 
