@@ -29,3 +29,15 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 - Multiple-camera setup resulted in more informative views, recordings from near and far distances and with different angle shots, cameras in fixed positions, different lighting conditions, rotations and movement of devices, camera mount on the Screwdriver, Hand-held camera. 
 
 **WDSD Dataset** can be downloaded through this link: (After the conference, the URL will be made available.) 
+
+Examples from the dataset:
+
+![16__Micro_1_cam3_png_Color_4177](https://user-images.githubusercontent.com/56552010/185940993-1c77eb68-a5d9-4bce-808b-2329cd1a8dac.png)
+
+![15__frame_384](https://user-images.githubusercontent.com/56552010/185940951-87cb39b8-5692-4c71-89d3-6c0075b2eed4.png)
+
+![75__Tower_1_cam3_png_Color_5998](https://user-images.githubusercontent.com/56552010/185941103-46733286-120a-40b3-bd12-481c27c9d663.png)
+
+![59__eco11_372](https://user-images.githubusercontent.com/56552010/185941303-1267d673-a2b1-4a33-9fc2-c7f0ed219001.png)
+
+![83__eco9_2160](https://user-images.githubusercontent.com/56552010/185941251-90cf471f-881d-4ad9-a8ac-56386ad5dd00.png)
