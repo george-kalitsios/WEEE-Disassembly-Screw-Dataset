@@ -9,15 +9,16 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 
 *Dataset Statistics:*
 
-![3](https://user-images.githubusercontent.com/56552010/185942935-6936e4a6-6440-4abd-8e87-51afef52451f.png)
-
 - 945 images 
 
 - Total Screw instances 4414
 
 - Avg = 5 Screws/image
 
-- Min screws/image = 1 | Max screws/image = 15
+- Min screws/image = 1 | Max screws/image = 16
+
+![3](https://user-images.githubusercontent.com/56552010/185942935-6936e4a6-6440-4abd-8e87-51afef52451f.png)
+
 
 - Annotations for 3 Computer Vision Tasks : Object detection(COCO format), Instance segmentation(COCO format), Semantic segmentation
 
