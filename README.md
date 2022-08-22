@@ -8,6 +8,9 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 
 
 *Dataset Statistics:*
+
+![3](https://user-images.githubusercontent.com/56552010/185942935-6936e4a6-6440-4abd-8e87-51afef52451f.png)
+
 - 945 images 
 
 - Total Screw instances 4414
@@ -16,29 +19,26 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 
 - Min screws/image = 1 | Max screws/image = 15
 
-- Industrial Environment images : 390 --> 41.3% Laboratory Environment : 555 --> 58.7%
-
 - Annotations for 3 Computer Vision Tasks : Object detection(COCO format), Instance segmentation(COCO format), Semantic segmentation
 
 - Dataset Split --> 0.8/0.1/0.1 --> 765/90/90
 
 - High Definition (HD) Images 1280x720 --> 720P-HD
 
-- Three different types of WEEE devices : PC Towers, Microwave Ovens, Flat Panel Displays [35% - 330 images/ 41% - 387 images/ 24% - 228 images]
-
 - Damaged devices, Deformable devices, Big variability between devices
 
 - Multiple-camera setup resulted in more informative views, recordings from near and far distances and with different angle shots, cameras in fixed positions, different lighting conditions, rotations and movement of devices, camera mount on the Screwdriver, Hand-held camera. 
 
 
+- Three different types of WEEE devices : PC Towers, Microwave Ovens, Flat Panel Displays [35% - 330 images/ 41% - 387 images/ 24% - 228 images]
+
 ![1](https://user-images.githubusercontent.com/56552010/185942472-5889dfe8-ace4-4a58-8540-2df4bf427028.png)
 
-![2](https://user-images.githubusercontent.com/56552010/185942492-d8d18322-569d-40ca-a058-7284aec49b51.png)
-
-
-![3](https://user-images.githubusercontent.com/56552010/185942935-6936e4a6-6440-4abd-8e87-51afef52451f.png)
-
 ![4](https://user-images.githubusercontent.com/56552010/185942950-d76e3e3d-9b6a-49ef-bd4d-d6600e12ae2e.png)
+
+- Industrial Environment images : 390 --> 41.3% Laboratory Environment : 555 --> 58.7%
+
+![2](https://user-images.githubusercontent.com/56552010/185942492-d8d18322-569d-40ca-a058-7284aec49b51.png)
 
 ![5](https://user-images.githubusercontent.com/56552010/185942962-88461723-acf0-48b5-8365-b33f5200ae42.png)
 
