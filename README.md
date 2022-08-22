@@ -7,7 +7,7 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 
 
 
-*Dataset Statistics:*
+**Dataset Statistics:**
 
 - 945 images 
 
