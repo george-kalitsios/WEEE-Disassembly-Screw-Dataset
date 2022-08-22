@@ -32,16 +32,16 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 
 
 - Three different types of WEEE devices : PC Towers, Microwave Ovens, Flat Panel Displays [35% - 330 images/ 41% - 387 images/ 24% - 228 images]
+<!-- 
+![1](https://user-images.githubusercontent.com/56552010/185942472-5889dfe8-ace4-4a58-8540-2df4bf427028.png) -->
 
-![1](https://user-images.githubusercontent.com/56552010/185942472-5889dfe8-ace4-4a58-8540-2df4bf427028.png)
-
-<!-- ![4](https://user-images.githubusercontent.com/56552010/185942950-d76e3e3d-9b6a-49ef-bd4d-d6600e12ae2e.png) -->
+![4](https://user-images.githubusercontent.com/56552010/185942950-d76e3e3d-9b6a-49ef-bd4d-d6600e12ae2e.png)
 
 - Industrial Environment images : 390 --> 41.3% Laboratory Environment : 555 --> 58.7%
 
-![2](https://user-images.githubusercontent.com/56552010/185942492-d8d18322-569d-40ca-a058-7284aec49b51.png)
+<!-- ![2](https://user-images.githubusercontent.com/56552010/185942492-d8d18322-569d-40ca-a058-7284aec49b51.png) -->
 
-<!-- ![5](https://user-images.githubusercontent.com/56552010/185942962-88461723-acf0-48b5-8365-b33f5200ae42.png) -->
+![5](https://user-images.githubusercontent.com/56552010/185942962-88461723-acf0-48b5-8365-b33f5200ae42.png)
 
 **WDSD Dataset** can be downloaded through this link: (After the conference, the URL will be made available.) 
 
