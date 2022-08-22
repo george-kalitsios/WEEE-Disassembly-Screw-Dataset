@@ -55,12 +55,7 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 
 Examples from the dataset:
 
-![16__Micro_1_cam3_png_Color_4177](https://user-images.githubusercontent.com/56552010/185940993-1c77eb68-a5d9-4bce-808b-2329cd1a8dac.png)
+![image11a(1a)(2)](https://user-images.githubusercontent.com/56552010/185946985-86622ce3-fa8d-4cc3-9760-170f7da0ed01.png)
 
-![15__frame_384](https://user-images.githubusercontent.com/56552010/185940951-87cb39b8-5692-4c71-89d3-6c0075b2eed4.png)
+![new1a(2)](https://user-images.githubusercontent.com/56552010/185946991-8a428885-651b-4eef-a8e1-d1ec108e4629.png)
 
-![75__Tower_1_cam3_png_Color_5998](https://user-images.githubusercontent.com/56552010/185941103-46733286-120a-40b3-bd12-481c27c9d663.png)
-
-![59__eco11_372](https://user-images.githubusercontent.com/56552010/185941303-1267d673-a2b1-4a33-9fc2-c7f0ed219001.png)
-
-![83__eco9_2160](https://user-images.githubusercontent.com/56552010/185941251-90cf471f-881d-4ad9-a8ac-56386ad5dd00.png)
