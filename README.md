@@ -32,11 +32,15 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 
 
 ![1](https://user-images.githubusercontent.com/56552010/185942472-5889dfe8-ace4-4a58-8540-2df4bf427028.png)
-![2](https://user-images.githubusercontent.com/56552010/185942492-d8d18322-569d-40ca-a058-7284aec49b51.png)
-![3](https://user-images.githubusercontent.com/56552010/185942512-be328941-22c0-4f19-97c7-8f7e1a7f242e.png)
-![4](https://user-images.githubusercontent.com/56552010/185942530-a6baa5df-2a46-46f5-ac07-995257fa36ee.png)
-![5](https://user-images.githubusercontent.com/56552010/185942544-1e027a64-3f00-4f15-a51b-fa901158f42c.png)
 
+![2](https://user-images.githubusercontent.com/56552010/185942492-d8d18322-569d-40ca-a058-7284aec49b51.png)
+
+
+![3](https://user-images.githubusercontent.com/56552010/185942935-6936e4a6-6440-4abd-8e87-51afef52451f.png)
+
+![4](https://user-images.githubusercontent.com/56552010/185942950-d76e3e3d-9b6a-49ef-bd4d-d6600e12ae2e.png)
+
+![5](https://user-images.githubusercontent.com/56552010/185942962-88461723-acf0-48b5-8365-b33f5200ae42.png)
 
 **WDSD Dataset** can be downloaded through this link: (After the conference, the URL will be made available.) 
 
