@@ -1,7 +1,7 @@
 # WEEE-Disassembly-Screw-Dataset
-Paper Title : Vision-Enhanced System for Human-Robot Disassembly Factory Cells: Introducing A New Screw Dataset
+Paper Title : **Vision-Enhanced System for Human-Robot Disassembly Factory Cells: Introducing A New Screw Dataset**
 
-2022 4th International Conference on Robotics and Computer Vision (ICRCV 2022)
+**2022 4th International Conference on Robotics and Computer Vision (ICRCV 2022)**
 
 The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**crew **D**ataset 
 
@@ -53,9 +53,8 @@ The dataset might be referred to as **WDSD** : **W**EEE **D**isassembly **S**cre
 <br />
 <br />
 
-Examples from the dataset:
-
-![image11a(1a)(2)](https://user-images.githubusercontent.com/56552010/185946985-86622ce3-fa8d-4cc3-9760-170f7da0ed01.png)
+*Examples from the dataset:*
 
 ![new1a(2)](https://user-images.githubusercontent.com/56552010/185946991-8a428885-651b-4eef-a8e1-d1ec108e4629.png)
 
+![image11a(1a)(2)](https://user-images.githubusercontent.com/56552010/185946985-86622ce3-fa8d-4cc3-9760-170f7da0ed01.png)
