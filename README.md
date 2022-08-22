@@ -57,4 +57,5 @@
 
 #### The dataset might be referred to as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset 
 
-#### **WDSD Dataset** can be downloaded through this link: (After the conference September 25-27, 2022, the URL will be made available.) 
+#### **WDSD Dataset** can be downloaded through this link: 
+(After the conference September 25-27, 2022, the URL will be made available.) 
