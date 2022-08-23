@@ -43,6 +43,11 @@
 
 
 <br />
+
+<br />
+
+- #### The dataset might be referred to as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset !
+
 <br />
 
 #### *Examples from the dataset:*
@@ -51,12 +56,6 @@
 
 ![image11a(1a)(2)](https://user-images.githubusercontent.com/56552010/185946985-86622ce3-fa8d-4cc3-9760-170f7da0ed01.png)
 
-
-<br />
-
-- #### The dataset might be referred to as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset !
-
-<br />
 
 <!-- #### **WDSD Dataset** can be downloaded through this link: https://drive.google.com/drive/folders/1B8KB3p5568DMT5Uh91zOj3JInj8Q5RiH?usp=sharing
 (After the conference September 25-27, 2022, the URL will be made available.) 
