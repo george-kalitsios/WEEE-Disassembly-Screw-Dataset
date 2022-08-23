@@ -3,7 +3,7 @@
 
 ## Conference: **2022 4th International Conference on Robotics and Computer Vision (ICRCV 2022)**
 
-### The proposed screw dataset contains 945 images and over 4,000 annotated screw instances suitable for three separate computer vision tasks, namely *instance segmentation*, *object detection*, and *semantic segmentation*.
+### The proposed screw dataset contains 945 images and over 4,000 annotated screw instances suitable for three separate computer vision tasks, namely *instance segmentation*, *object detection*, and *semantic segmentation*!
 
 <br />
 
