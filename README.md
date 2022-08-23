@@ -54,7 +54,7 @@
 
 <br />
 
-- #### The dataset might be referred to as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset.
+- #### The dataset might be referred to as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset !
 
 <br />
 
