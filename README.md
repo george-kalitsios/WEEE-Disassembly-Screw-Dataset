@@ -65,4 +65,4 @@
  -->
  
  #### **WDSD Dataset** can be downloaded through this link:
-(After the conference September 25-27, 2022, the URL will be made available.) 
+(After the conference September 25-27 2022, the URL will be made available.) 
