@@ -26,7 +26,6 @@ environment and 47.3% recorded in WEEE recycling plants.
 In the training, validation, and test sets, there are 765, 90 and
 90 fully annotated frames, respectively
 
-<br />
 
 #### **Dataset Statistics:**
 
