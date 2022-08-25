@@ -66,11 +66,6 @@ In the training, validation, and test sets, there are 765, 90 and
 
 <br />
 
-#### The dataset might be referred to as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset !
-<!-- #### The dataset may be abbreviated as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset ! -->
-
-<br />
-
 #### *Examples from the dataset:*
 
 ![new1a(2)](https://user-images.githubusercontent.com/56552010/185946991-8a428885-651b-4eef-a8e1-d1ec108e4629.png)
@@ -79,8 +74,11 @@ Figure 1: Screw examples for different WEEE devices.
 ![image11a(1a)(2)](https://user-images.githubusercontent.com/56552010/185946985-86622ce3-fa8d-4cc3-9760-170f7da0ed01.png)
 Figure 2: Screw annotations for Semantic Segmentation, Object Detection and Instance Segmentation respectively.
 
+<!-- #### The dataset may be abbreviated as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset ! -->
 
 <br />
+#### The dataset might be referred to as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset !
+
 
 #### **WDSD Dataset** can be downloaded through this link: https://drive.google.com/drive/folders/1B8KB3p5568DMT5Uh91zOj3JInj8Q5RiH?usp=sharing
 
