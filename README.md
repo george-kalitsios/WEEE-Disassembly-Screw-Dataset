@@ -3,7 +3,7 @@
 
 ## Conference: **2022 4th International Conference on Robotics and Computer Vision (ICRCV 2022)**
  -->
-General:
+#### General:
 <!-- The proposed screw dataset contains 945 images and over 4,000 annotated screw instances suitable for three separate computer vision tasks, namely *instance segmentation*, *object detection*, and *semantic segmentation! -->
 
 The introduced screw dataset comprises a wide variety of
@@ -18,11 +18,10 @@ various angles. Additionally, images from a greater distance
 were captured using cameras in fixed positions at a maximum
 distance of 90 cm.
 
-The screw dataset consists of 945 high definition 1280x720
-images, 4, 414 screw instances and 4.7 screws per image as
-shown in Table I. Blur estimation was employed to exclude
-blurry frames from the annotation process. The dataset includes annotated data in COCO format for three different computer vision tasks: instance segmentation, object
-recognition, and semantic segmentation. From these images, 52.7% were recorded in a laboratory
+**The screw dataset consists of 945 high definition 1280x720
+images, 4, 414 screw instances and 4.7 screws per image.** Blur estimation was employed to exclude
+blurry frames from the annotation process. **The dataset includes annotated data in COCO format for three different computer vision tasks: instance segmentation, object
+recognition, and semantic segmentation.** From these images, 52.7% were recorded in a laboratory
 environment and 47.3% recorded in WEEE recycling plants.
 In the training, validation, and test sets, there are 765, 90 and
 90 fully annotated frames, respectively
