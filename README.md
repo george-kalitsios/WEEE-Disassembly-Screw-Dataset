@@ -81,7 +81,9 @@ Figure 2: Screw annotations for Semantic Segmentation, Object Detection and Inst
 #### The dataset might be referred to as **WDSD**: (W)EEE (D)isassembly (S)crew (D)ataset !
 
 
-#### **WDSD Dataset** can be downloaded through this link: https://drive.google.com/drive/folders/1B8KB3p5568DMT5Uh91zOj3JInj8Q5RiH?usp=sharing
+#### **WDSD Dataset** can be downloaded through this link: 
+(After the conference September 25-27 2022, the URL will be made available.)
+ <!-- https://drive.google.com/drive/folders/1B8KB3p5568DMT5Uh91zOj3JInj8Q5RiH?usp=sharing  -->
 
 #### Key Publication:
 Georgios Kalitsios, Lazaros Lazaridis, Athanasios Psaltis, Apostolos Axenopoulos, Petros Daras, "Vision-Enhanced System for Human-Robot Disassembly Factory Cells: Introducing A New Screw Dataset", 2022 4th International Conference on Robotics and Computer Vision (ICRCV 2022).
