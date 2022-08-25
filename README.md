@@ -60,9 +60,8 @@
 
 <br />
 
-<!-- #### **WDSD Dataset** can be downloaded through this link: https://drive.google.com/drive/folders/1B8KB3p5568DMT5Uh91zOj3JInj8Q5RiH?usp=sharing
-(After the conference September 25-27, 2022, the URL will be made available.) 
- -->
+#### **WDSD Dataset** can be downloaded through this link: https://drive.google.com/drive/folders/1B8KB3p5568DMT5Uh91zOj3JInj8Q5RiH?usp=sharing
+
  
- #### **WDSD Dataset** can be downloaded through this link:
-(After the conference September 25-27 2022, the URL will be made available.) 
+ <!-- #### **WDSD Dataset** can be downloaded through this link:
+(After the conference September 25-27 2022, the URL will be made available.)  -->
