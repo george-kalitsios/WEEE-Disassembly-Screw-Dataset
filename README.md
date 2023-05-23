@@ -3,7 +3,7 @@
 
 ## Conference: **2022 4th International Conference on Robotics and Computer Vision (ICRCV 2022)**
  -->
-#### General:
+<!-- #### General: -->
 <!-- The proposed screw dataset contains 945 images and over 4,000 annotated screw instances suitable for three separate computer vision tasks, namely *instance segmentation*, *object detection*, and *semantic segmentation! -->
 
 The introduced screw dataset comprises a wide variety of
@@ -82,7 +82,8 @@ Figure 2: Screw annotations for Semantic Segmentation, Object Detection and Inst
 
 
 #### **WDSD Dataset** can be downloaded through this link: 
-(After the conference September 25-27 2022, the URL will be made available.)
+https://vcl.iti.gr/dataset/weee-disassembly-screw-dataset/
+<!-- (After the conference September 25-27 2022, the URL will be made available.) -->
  <!-- https://drive.google.com/drive/folders/1B8KB3p5568DMT5Uh91zOj3JInj8Q5RiH?usp=sharing  -->
 
 #### Key Publication:
